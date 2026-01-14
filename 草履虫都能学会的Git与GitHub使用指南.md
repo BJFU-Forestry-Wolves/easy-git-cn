@@ -53,7 +53,7 @@
 
 1. **稳定的邮箱**：推荐用 Gmail、Outlook，国内的 QQ 邮箱、163 邮箱也可以（由于 GitHub 服务器在海外，QQ 邮箱偶尔可能会收不到邮件，如果在垃圾箱也没翻到，就换个邮箱）。
 
-2. **网络环境（科学上网）**：**【重点】** 虽然 GitHub 在国内偶尔能直接访问，但极其不稳定（图片裂开、速度极慢是常态）。为了后续不报错，**强烈建议开启“科学上网”工具（梯子/加速器）**，并开启**全局模式**。
+2. **网络环境（科学上网）**：**【重点】** 虽然 GitHub 在国内偶尔能直接访问，但极其不稳定（图片裂开、速度极慢是常态）。为了后续不报错，**强烈建议开启“科学上网”工具**，并开启**全局模式**。
 
    
 
@@ -269,7 +269,9 @@ git --version
 
 **场景**：要把“北京林业大学 RoboMaster 视觉组”的资料下载到电脑上。
 
-- **第一步：复制地址** 进入我们队伍的GitHub，找到视觉组的这个仓库，仓库链接：https://github.com/BJFU-Forestry-Wolves/BJFU-Vision-Group-from-Beginner-to-Master*（因为这个项目是开源的，所以以此为例，其他项目也一样通用。队伍内有一些仓库是闭源的，比如英雄的代码，想要下载需要先绑定你的Git和GitHub账号，后面再说）*
+- **第一步：复制地址** 进入我们队伍的GitHub，找到视觉组的这个仓库，仓库链接：https://github.com/BJFU-Forestry-Wolves/BJFU-Vision-Group-from-Beginner-to-Master.git
+
+  *（因为这个项目是开源的，所以以此为例，其他项目也一样通用。队伍内有一些仓库是闭源的，比如英雄的代码，想要下载需要先绑定你的Git和GitHub账号，后面再说）*
 
 - 复制目标仓库链接： `https://github.com/BJFU-Forestry-Wolves/BJFU-Vision-Group-from-Beginner-to-Master.git`
 

@@ -854,7 +854,7 @@ git push -u origin main
 
 这里收集了新手最容易遇到的“红字报错”和“灵异现象”。如果你卡住了，先来这里找找解药。
 
-#### 1. 推送报错：`! [rejected] ... (fetch first)`
+### 1. 推送报错：`! [rejected] ... (fetch first)`
 
 ![image-20260114064625360](./assets/image-20260114064625360.png)
 
